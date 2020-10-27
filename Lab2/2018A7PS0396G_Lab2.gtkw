@@ -1,0 +1,33 @@
+[*]
+[*] GTKWave Analyzer v3.3.86 (w)1999-2017 BSI
+[*] Tue Sep  8 04:11:44 2020
+[*]
+[dumpfile] "/mnt/7A12F8C112F88403/BPGC/Moodle/Sem5/CS F342 CA/Labs/Lab2/2018A7PS0396G_Lab2.vcd"
+[dumpfile_mtime] "Tue Sep  8 04:08:43 2020"
+[dumpfile_size] 223050
+[savefile] "/mnt/7A12F8C112F88403/BPGC/Moodle/Sem5/CS F342 CA/Labs/Lab2/2018A7PS0396G_Lab2.gtkw"
+[timestart] 0
+[size] 2014 691
+[pos] 149 510
+*-4.161987 84 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] testbench.
+[treeopen] testbench.uut.
+[sst_width] 227
+[signals_width] 150
+[sst_expanded] 1
+[sst_vpaned_height] 177
+@24
+testbench.clk
+testbench.outR0[31:0]
+testbench.outR1[31:0]
+testbench.rd0[4:0]
+testbench.rd1[4:0]
+testbench.regWrite
+testbench.reset
+testbench.rs[4:0]
+testbench.rt[4:0]
+testbench.select
+testbench.writeData[31:0]
+testbench.uut.d0.decOut[31:0]
+[pattern_trace] 1
+[pattern_trace] 0

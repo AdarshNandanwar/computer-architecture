@@ -1,0 +1,28 @@
+[*]
+[*] GTKWave Analyzer v3.3.86 (w)1999-2017 BSI
+[*] Tue Aug 25 11:10:22 2020
+[*]
+[dumpfile] "/mnt/7A12F8C112F88403/BPGC/Moodle/Sem5/CS F342 Computer Architecture/Labs/Lab0/ripple_carry_adder_subtractor.vcd"
+[dumpfile_mtime] "Tue Aug 25 10:49:22 2020"
+[dumpfile_size] 2055
+[savefile] "/mnt/7A12F8C112F88403/BPGC/Moodle/Sem5/CS F342 Computer Architecture/Labs/Lab0/final.gtkw"
+[timestart] 0
+[size] 1920 963
+[pos] -87 -87
+*-13.275867 7780 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] rcas_test.
+[sst_width] 233
+[signals_width] 145
+[sst_expanded] 1
+[sst_vpaned_height] 270
+@23
+rcas_test.S[3:0]
+@28
+rcas_test.C
+@22
+rcas_test.A[3:0]
+rcas_test.B[3:0]
+@28
+rcas_test.Op
+[pattern_trace] 1
+[pattern_trace] 0

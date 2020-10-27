@@ -1,0 +1,32 @@
+[*]
+[*] GTKWave Analyzer v3.3.86 (w)1999-2017 BSI
+[*] Tue Oct  6 10:52:53 2020
+[*]
+[dumpfile] "/mnt/7A12F8C112F88403/BPGC/Moodle/Sem5/CS F342 CA/Labs/Lab4/final/2018A7PS0396G_Lab4.vcd"
+[dumpfile_mtime] "Tue Oct  6 10:50:44 2020"
+[dumpfile_size] 647300
+[savefile] "/mnt/7A12F8C112F88403/BPGC/Moodle/Sem5/CS F342 CA/Labs/Lab4/final/2018A7PS0396G_Lab4.gtkw"
+[timestart] 0
+[size] 1920 978
+[pos] -1 -1
+*-4.222869 49 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] singleCycleTestBench.
+[treeopen] singleCycleTestBench.uut.
+[sst_width] 227
+[signals_width] 217
+[sst_expanded] 1
+[sst_vpaned_height] 277
+@22
+singleCycleTestBench.uut.im.IR[31:0]
+@24
+singleCycleTestBench.uut.alu1.aluIn1[31:0]
+singleCycleTestBench.uut.alu1.aluIn2[31:0]
+singleCycleTestBench.uut.alu1.aluOut[31:0]
+singleCycleTestBench.uut.dm1.read_data[31:0]
+singleCycleTestBench.uut.jump
+singleCycleTestBench.uut.Branch
+singleCycleTestBench.uut.zero
+singleCycleTestBench.uut.clk
+singleCycleTestBench.uut.reset
+[pattern_trace] 1
+[pattern_trace] 0
